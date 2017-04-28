@@ -5,5 +5,6 @@
 </head>
 <body>
     <p>Here's another page</p>
+    <p>It has some content</p>
 </body>
 </html>
